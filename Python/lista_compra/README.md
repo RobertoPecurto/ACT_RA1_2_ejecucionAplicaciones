@@ -125,6 +125,5 @@ La **F** corresponde al test **fallido intencionalmente** (para demostrar detecc
 ## ✍️ Autor
 
 **Roberto Pecurto Escrig**
-Práctica 3.2 – Ejecución, Testing y Debug en Python.
-
+Practica 2 - Ejecución de aplicaciones
 
