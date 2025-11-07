@@ -20,7 +20,7 @@ def mostrar_lista():
         print("Productos en la lista de compra:")
         for producto, precio in lista_compra.items():
             print("-", producto, precio, "€")
-            print("El TOTAL es", calcular_total(), "€")
+        print("El TOTAL es", calcular_total(), "€")
     else:
         print("La lista de compra está vacía.")
 
